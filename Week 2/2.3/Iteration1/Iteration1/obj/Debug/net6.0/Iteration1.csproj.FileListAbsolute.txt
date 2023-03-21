@@ -1,0 +1,15 @@
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\obj\Debug\net6.0\Iteration1.csproj.AssemblyReference.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\obj\Debug\net6.0\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\obj\Debug\net6.0\Iteration1.AssemblyInfoInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\obj\Debug\net6.0\Iteration1.AssemblyInfo.cs
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\obj\Debug\net6.0\Iteration1.csproj.CoreCompileInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\bin\Debug\net6.0\Iteration1.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\bin\Debug\net6.0\Iteration1.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\bin\Debug\net6.0\Iteration1.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\bin\Debug\net6.0\Iteration1.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\bin\Debug\net6.0\Iteration1.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\obj\Debug\net6.0\Iteration1.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\obj\Debug\net6.0\refint\Iteration1.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\obj\Debug\net6.0\Iteration1.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\obj\Debug\net6.0\Iteration1.genruntimeconfig.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.3\Iteration1\Iteration1\obj\Debug\net6.0\ref\Iteration1.dll

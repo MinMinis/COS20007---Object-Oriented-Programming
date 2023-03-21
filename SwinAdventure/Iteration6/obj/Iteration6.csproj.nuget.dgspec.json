@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\SwinAdventure\\Iteration6\\Iteration6.csproj": {}
+  },
+  "projects": {
+    "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\SwinAdventure\\Iteration6\\Iteration6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\SwinAdventure\\Iteration6\\Iteration6.csproj",
+        "projectName": "Iteration6",
+        "projectPath": "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\SwinAdventure\\Iteration6\\Iteration6.csproj",
+        "packagesPath": "C:\\Users\\trant\\.nuget\\packages\\",
+        "outputPath": "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\SwinAdventure\\Iteration6\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj": {
+                "projectPath": "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj",
+        "projectName": "SwinAdventure",
+        "projectPath": "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj",
+        "packagesPath": "C:\\Users\\trant\\.nuget\\packages\\",
+        "outputPath": "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\SwinAdventure\\SwinAdventure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

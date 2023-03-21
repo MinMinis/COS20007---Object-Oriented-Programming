@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5015DBA0-D034-4A7A-94F0-4C60987ECF04}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FruitKarate.cs">
+    <Files>
+      <File FileName="GameMain.cs" Line="10" Column="13" />
+      <File FileName="FruitKarate.cs" Line="26" Column="14" />
+      <File FileName="Fruit.cs" Line="43" Column="24" />
+      <File FileName="FruitKind.cs" Line="15" Column="16" />
+      <File FileName="ToughFruit.cs" Line="40" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="03-FruitKarate_Pt1" expanded="True">
+            <Node name="03-FruitKarate_Pt1" expanded="True">
+              <Node name="FruitKarate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03-FruitKarate__Pt1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

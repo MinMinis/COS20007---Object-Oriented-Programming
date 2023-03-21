@@ -1,0 +1,14 @@
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\obj\Debug\netcoreapp3.1\1.1.csproj.AssemblyReference.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\obj\Debug\netcoreapp3.1\1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\obj\Debug\netcoreapp3.1\1.1.AssemblyInfoInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\obj\Debug\netcoreapp3.1\1.1.AssemblyInfo.cs
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\obj\Debug\netcoreapp3.1\1.1.csproj.CoreCompileInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\bin\Debug\netcoreapp3.1\1.1.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\bin\Debug\netcoreapp3.1\1.1.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\bin\Debug\netcoreapp3.1\1.1.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\bin\Debug\netcoreapp3.1\1.1.runtimeconfig.dev.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\bin\Debug\netcoreapp3.1\1.1.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\bin\Debug\netcoreapp3.1\1.1.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\obj\Debug\netcoreapp3.1\1.1.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\obj\Debug\netcoreapp3.1\1.1.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\1.1\obj\Debug\netcoreapp3.1\1.1.genruntimeconfig.cache

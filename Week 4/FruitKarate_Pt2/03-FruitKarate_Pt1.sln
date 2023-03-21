@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-FruitKarate_Pt1", "03-FruitKarate_Pt1.csproj", "{5015DBA0-D034-4A7A-94F0-4C60987ECF04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5015DBA0-D034-4A7A-94F0-4C60987ECF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5015DBA0-D034-4A7A-94F0-4C60987ECF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5015DBA0-D034-4A7A-94F0-4C60987ECF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5015DBA0-D034-4A7A-94F0-4C60987ECF04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

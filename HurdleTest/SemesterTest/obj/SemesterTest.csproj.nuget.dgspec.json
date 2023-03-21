@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\HurdleTest\\SemesterTest\\SemesterTest.csproj": {}
+  },
+  "projects": {
+    "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\HurdleTest\\SemesterTest\\SemesterTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\HurdleTest\\SemesterTest\\SemesterTest.csproj",
+        "projectName": "SemesterTest",
+        "projectPath": "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\HurdleTest\\SemesterTest\\SemesterTest.csproj",
+        "packagesPath": "C:\\Users\\trant\\.nuget\\packages\\",
+        "outputPath": "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\HurdleTest\\SemesterTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

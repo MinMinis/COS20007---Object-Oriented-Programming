@@ -1,0 +1,15 @@
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\bin\Debug\net6.0\FruitKarate2.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\bin\Debug\net6.0\FruitKarate2.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\bin\Debug\net6.0\FruitKarate2.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\bin\Debug\net6.0\FruitKarate2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\bin\Debug\net6.0\FruitKarate2.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\obj\Debug\net6.0\FruitKarate2.csproj.AssemblyReference.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\obj\Debug\net6.0\FruitKarate2.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\obj\Debug\net6.0\FruitKarate2.AssemblyInfoInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\obj\Debug\net6.0\FruitKarate2.AssemblyInfo.cs
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\obj\Debug\net6.0\FruitKarate2.csproj.CoreCompileInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\obj\Debug\net6.0\FruitKarate2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\obj\Debug\net6.0\refint\FruitKarate2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\obj\Debug\net6.0\FruitKarate2.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\obj\Debug\net6.0\FruitKarate2.genruntimeconfig.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 4\FruitKarate2\obj\Debug\net6.0\ref\FruitKarate2.dll

@@ -1,0 +1,15 @@
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\obj\Debug\net6.0\ShapeDrawer.csproj.AssemblyReference.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\obj\Debug\net6.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\obj\Debug\net6.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\obj\Debug\net6.0\ShapeDrawer.AssemblyInfo.cs
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\obj\Debug\net6.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\bin\Debug\net6.0\ShapeDrawer.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\bin\Debug\net6.0\ShapeDrawer.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\bin\Debug\net6.0\ShapeDrawer.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\bin\Debug\net6.0\ShapeDrawer.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\bin\Debug\net6.0\ShapeDrawer.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\obj\Debug\net6.0\ShapeDrawer.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\obj\Debug\net6.0\refint\ShapeDrawer.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\obj\Debug\net6.0\ShapeDrawer.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\obj\Debug\net6.0\ShapeDrawer.genruntimeconfig.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 2\2.2\ShapeDrawer\obj\Debug\net6.0\ref\ShapeDrawer.dll

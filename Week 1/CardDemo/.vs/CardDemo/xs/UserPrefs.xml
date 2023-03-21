@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8373C7D7-7FA9-4689-A5F2-73BBF1D86240}|Default">
+  <MonoDevelop.Ide.ItemProperties.CardDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CardDemo/Program.cs">
+    <Files>
+      <File FileName="CardDemo/Program.cs" Line="15" Column="34" />
+      <File FileName="CardDemo/Card.cs" Line="19" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CardDemo" expanded="True">
+            <Node name="CardDemo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

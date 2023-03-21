@@ -1,0 +1,15 @@
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\bin\Debug\net6.0\MyGame.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\bin\Debug\net6.0\MyGame.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\bin\Debug\net6.0\MyGame.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\bin\Debug\net6.0\MyGame.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\bin\Debug\net6.0\MyGame.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\obj\Debug\net6.0\MyGame.csproj.AssemblyReference.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\obj\Debug\net6.0\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\obj\Debug\net6.0\MyGame.AssemblyInfoInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\obj\Debug\net6.0\MyGame.AssemblyInfo.cs
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\obj\Debug\net6.0\MyGame.csproj.CoreCompileInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\obj\Debug\net6.0\MyGame.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\obj\Debug\net6.0\refint\MyGame.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\obj\Debug\net6.0\MyGame.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\obj\Debug\net6.0\MyGame.genruntimeconfig.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 5\5.2\DrawingProgram\obj\Debug\net6.0\ref\MyGame.dll

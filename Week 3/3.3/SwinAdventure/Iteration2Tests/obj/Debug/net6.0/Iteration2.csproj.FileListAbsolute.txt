@@ -1,0 +1,315 @@
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\testhost.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\testhost.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\nunit.engine.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\nunit.engine.api.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\nunit.engine.core.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Iteration2.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Iteration2.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Iteration2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Iteration2.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\nunit.framework.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\obj\Debug\net6.0\Iteration2.csproj.AssemblyReference.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\obj\Debug\net6.0\Iteration2.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\obj\Debug\net6.0\Iteration2.AssemblyInfoInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\obj\Debug\net6.0\Iteration2.AssemblyInfo.cs
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\obj\Debug\net6.0\Iteration2.csproj.CoreCompileInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\obj\Debug\net6.0\Iteration2.csproj.CopyComplete
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\obj\Debug\net6.0\Iteration2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\obj\Debug\net6.0\refint\Iteration2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\obj\Debug\net6.0\Iteration2.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\obj\Debug\net6.0\Iteration2.genruntimeconfig.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\obj\Debug\net6.0\ref\Iteration2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\SwinAdventure.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\SwinAdventure.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\SwinAdventure.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\SwinAdventure.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2\bin\Debug\net6.0\SwinAdventure.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\SwinAdventure.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\SwinAdventure.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\SwinAdventure.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\testhost.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\testhost.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\nunit.engine.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\nunit.engine.api.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\nunit.engine.core.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Iteration2.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Iteration2.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Iteration2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Iteration2.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\nunit.framework.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\SwinAdventure.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\SwinAdventure.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.csproj.AssemblyReference.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.AssemblyInfoInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.AssemblyInfo.cs
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.csproj.CoreCompileInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.csproj.CopyComplete
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\refint\Iteration2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.genruntimeconfig.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\ref\Iteration2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\testhost.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\testhost.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\nunit.engine.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\nunit.engine.api.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\nunit.engine.core.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\SwinAdventure.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\SwinAdventure.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\SwinAdventure.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Iteration2.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Iteration2.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Iteration2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Iteration2.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\nunit.framework.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\SwinAdventure.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\bin\Debug\net6.0\SwinAdventure.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.csproj.AssemblyReference.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.AssemblyInfoInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.AssemblyInfo.cs
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.csproj.CoreCompileInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.csproj.CopyComplete
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\refint\Iteration2.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\Iteration2.genruntimeconfig.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 3\3.3\SwinAdventure\Iteration2Tests\obj\Debug\net6.0\ref\Iteration2.dll

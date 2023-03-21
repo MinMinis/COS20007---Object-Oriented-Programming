@@ -1,0 +1,27 @@
+/Users/cpierce/Desktop/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.deps.json
+/Users/cpierce/Desktop/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.runtimeconfig.json
+/Users/cpierce/Desktop/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.runtimeconfig.dev.json
+/Users/cpierce/Desktop/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.dll
+/Users/cpierce/Desktop/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.pdb
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.csproj.AssemblyReference.cache
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.AssemblyInfoInputs.cache
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.AssemblyInfo.cs
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.csproj.CoreCompileInputs.cache
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.dll
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.pdb
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.genruntimeconfig.cache
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.runtimeconfig.dev.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.csproj.AssemblyReference.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.AssemblyInfoInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.AssemblyInfo.cs
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.csproj.CoreCompileInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Week 1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.genruntimeconfig.cache
