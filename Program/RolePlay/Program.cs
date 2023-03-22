@@ -12,8 +12,6 @@
                 stage++;
                 Action.Creep(stage);
             }
-
-            
         }
         public static void Play()
         {

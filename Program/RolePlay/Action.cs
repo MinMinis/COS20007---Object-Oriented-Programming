@@ -7,8 +7,8 @@
         public static void Creep(int stage)
         {
             Console.WriteLine($"You have entered stage {stage} of the challenge.");
-            Console.WriteLine("Enter to continue ...");
-            Console.ReadKey();
+            //Console.WriteLine("Enter to continue ...");
+            //Console.ReadKey();
             Thread.Sleep(2000);
             Fight();
         }
@@ -17,13 +17,11 @@
             switch (rand.Next(0,10))
             {
                 case 0:
-                    Combat(true, "", 0,0);
+                    //Boss combat
+                    Combat(true, "", 0,0, Program.player);
                     break;
-                /*case 1:
-                    Shop();
-                    break;*/
                 default:
-                    Combat(false, "", 0, 0);
+                    Combat(false, "", 0, 0, Program.player);
                     break;
             }
         }
@@ -77,15 +75,15 @@
                     return "";
             }
         }
-        public static void Combat(bool random, string creep, int dame, int health)
+        public static void Combat(bool boss, string creep, int dame, int health, Player player)
         {
             int expboss = 0;
             int goldboss = 0;
-            if (random)
+            if (boss)
             {
                 creep = Boss();
-                dame = Program.player.Damage/2 + rand.Next(15, 20) * Program.player.Level;
-                health = Program.player.Health/2 + rand.Next(50, 100) * Program.player.Level;
+                dame = player.Damage/2 + rand.Next(15, 20) * player.Level;
+                health = player.Health/2 + rand.Next(50, 100) * player.Level;
                 expboss += rand.Next(10,20);
                 goldboss += rand.Next(10, 20);
                 Console.WriteLine($"\nYou have encounter Boss {creep}");
@@ -93,8 +91,8 @@
             else
             {
                 creep = Monsters();
-                dame = Program.player.Damage/3 + rand.Next(8, 15);
-                health = Program.player.Health/5 + rand.Next(30, 50);
+                dame = player.Damage/3 + rand.Next(8, 15);
+                health = player.Health/5 + rand.Next(30, 50);
                 Console.WriteLine($"\nYou have encounter Small {creep}");
             }
             while (health > 0)
@@ -106,41 +104,44 @@
                 Console.WriteLine("| (A)ttack (D)efend |");
                 Console.WriteLine("| (H)eal   (R)un    |");
                 Console.WriteLine("---------------------");
-                Console.WriteLine($"Your info: {Program.player.Desc} {Program.player.Name}. Level: {Program.player.Level}");
-                Console.WriteLine($"Health: {Program.player.Health} | Potion: {Program.player.Potion}");
-                Console.WriteLine($"Attack: {Program.player.Damage} | Defend: {Program.player.Armor}\n");
+                Console.WriteLine($"Your info: {player.Desc} {player.Name}. Level: {player.Level}");
+                Console.WriteLine($"Exp: {player.Exp}/10    | Coins: {player.Coin}");
+                Console.WriteLine($"Health: {player.Health} | Potion: {player.Potion}");
+                Console.WriteLine($"Attack: {player.Damage} | Defend: {player.Armor}\n");
                 string command = Console.ReadLine().ToLower();
                 switch (command)
                 {
                     case "a":
                     case "attack":
-                        Console.WriteLine($"{Program.player.Name} have choose attack!");
-                        int hurt = dame - Program.player.Armor;
+                        Console.WriteLine($"{player.Name} choose attack!");
+                        int hurt = dame + rand.Next(0,10) - player.Armor;
                         if (hurt < 0)
                             hurt = 0;
+                        if (hurt > (dame - player.Armor + 5))
+                            Console.WriteLine($"{creep} has caused critical damage on you!");
                         int crit = rand.Next(0, 20);
                         if (crit > 10)
-                            Console.WriteLine($"You have land super critical damage to {creep}");
-                        int damage = rand.Next(Program.player.Damage, Program.player.Damage + Program.player.Weapon) + crit;
-                        Console.WriteLine($"{Program.player.Name} have losen {hurt} HP, and cause {damage} damage to enemy");
-                        Program.player.Health -= hurt; //lose hp
+                            Console.WriteLine($"You have used {player.WeaponDesc} to land super critical damage to {creep}");
+                        int damage = rand.Next(player.Damage, player.Damage + player.Weapon) + crit;
+                        Console.WriteLine($"{player.Name} have losen {hurt} HP, and cause {damage} damage to enemy");
+                        player.Health -= hurt; //lose hp
                         health -= damage; //attack creep
                         break;
                     case "d":
                     case "defend":
-                        Console.WriteLine($"{Program.player.Name} have choose defend!");
+                        Console.WriteLine($"{player.Name} choose defend!");
                         Console.WriteLine($"{creep} have punched into your armor...");
-                        int hurted = dame/4 - Program.player.Armor;
+                        int hurted = dame/4 - player.Armor;
                         if (hurted < 0)
                             hurted = 0;
                         //int damaged = rand.Next(Program.player.Damage, Program.player.Damage + Program.player.Weapon)/2;
-                        Console.WriteLine($"{Program.player.Name} defend successfully. You have losen {hurted} HP");
+                        Console.WriteLine($"{player.Name} defend successfully. You have losen {hurted} HP");
                         Program.player.Health -= hurted; //lose hp
                         //health -= damaged; //attack creep
                         break;
                     case "h":
                     case "heal":
-                        Console.WriteLine($"{Program.player.Name} have choose heal!");
+                        Console.WriteLine($"{player.Name} choose heal!");
                         if (Program.player.Potion == 0)
                         {
                             Console.WriteLine("You have no potion left to heal");
@@ -149,15 +150,15 @@
                         {
                             Console.WriteLine("You have successfully healed yourself!");
                             Program.player.Potion -= 1;
-                            Program.player.Health += Program.player.Healed;
-                            Console.WriteLine($"You have used herbals to gain {Program.player.Healed} HP");
+                            player.Health += player.Healed;
+                            Console.WriteLine($"You have used herbals to gain {player.Healed} HP");
                         }
                         if (rand.Next(0,2) > 0)
                         {
-                            int hurtheal = dame - Program.player.Armor;
+                            int hurtheal = dame - player.Armor;
                             if (hurtheal < 0)
                                 hurtheal = 0;
-                            Program.player.Health -= hurtheal; //lose hp
+                            player.Health -= hurtheal; //lose hp
 
                             Console.WriteLine($"You have losen {hurtheal} HP because of enemy attack!");
                         } else
@@ -167,46 +168,45 @@
                         break;
                     case "r":
                     case "run":
-                        Console.WriteLine($"{Program.player.Name} have choose run!");
+                        Console.WriteLine($"{player.Name} choose run!");
                         Console.WriteLine("You are running away ... ");
                         Thread.Sleep(3000);
                         if (rand.Next(0,3) == 0)
                         {
-                            Console.WriteLine($"{Program.player.Name} have failed to run away from {creep}");
-                            int hurtrun = dame - Program.player.Armor;
+                            Console.WriteLine($"{player.Name} have failed to run away from {creep}");
+                            int hurtrun = dame - player.Armor;
                             if (hurtrun < 0)
                                 hurtrun = 0;
                             Program.player.Health -= hurtrun; //lose hp
-                            Console.WriteLine($"{Program.player.Name} have losen {hurtrun} HP because of {creep}'s claws");
+                            Console.WriteLine($"{player.Name} have losen {hurtrun} HP because of {creep}'s claws");
                         } else
                         {
-                            Console.WriteLine($"You have successfully run away from {creep}");
-                            //Environment.Exit(0);
-                            Fight();
-                            break;
+                            Console.WriteLine($"You have successfully run away from {creep} to go to shop");
+                            Shop.LoadShop(player);
+                            Console.WriteLine($"{creep} has wait for you outside the shop\nThere is no way to run away from it ...");
                         }
                         break;
                 }
-                PlayerDeath();
+                PlayerDeath(player);
             }
-            Console.WriteLine($"\n{creep} has been defeated by {Program.player.Desc} {Program.player.Name}");
+            Console.WriteLine($"\n{creep} has been defeated by {player.Desc} {player.Name}");
             int exp = rand.Next(1, 10) + expboss;
-            Program.player.Exp += exp; // add exp 
+            player.Exp += exp; // add exp 
             int gold = rand.Next(5, 10) + goldboss;
-            Program.player.Coin += gold; // add exp 
+            player.Coin += gold; // add exp 
             Console.WriteLine($"You have gained {exp} EXP and {gold} coins !");
             Console.WriteLine(Loot());
-            while (Program.player.Exp > 10)
+            while (player.Exp > 10)
             {
-                Console.WriteLine(LevelUp.Lv(Program.player.Exp));
+                Console.WriteLine(LevelUp.Lv(player.Exp));
             }
             Console.WriteLine("Enter to continue ...");
             Console.ReadKey();
         }
 
-        public static void PlayerDeath()
+        public static void PlayerDeath(Player player)
         {
-            if (Program.player.Health <= 0)
+            if (player.Health <= 0)
             {
                 Console.WriteLine("You have try the best to rescue the world ...");
                 Console.WriteLine("Your HP has returned to 0.");

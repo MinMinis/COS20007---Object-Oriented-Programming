@@ -3,7 +3,7 @@
     public class Player : GameObject
     {
         static Random rand = new Random();
-        private string _name, _desc;
+        private string _name, _desc, _weapondesc;
         private int _exp, _health, _damage, _armor, _potion, _weapon, _healed, _level, _coin;
         public string Name
         {
@@ -107,6 +107,17 @@
                 _coin = value;
             }
         }
+        public string WeaponDesc
+        {
+            get
+            {
+                return _weapondesc;
+            }
+            set
+            {
+                _weapondesc = value;
+            }
+        }
         public Player(string name, string desc) : base(new string[] {"hunter", "me"}, name, desc)
         {
             _exp = 0;
@@ -115,9 +126,11 @@
             _armor = 5;
             _potion = 1;
             _weapon = 5;
+            _weapondesc = "Stick";
             _healed = 20;
             _level = 1;
-            _coin = 0;
+            _coin = 15;
+            
         }
     }
 }
