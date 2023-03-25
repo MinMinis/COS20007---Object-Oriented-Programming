@@ -7,8 +7,6 @@
         public static void Creep(int stage)
         {
             Console.WriteLine($"You have entered stage {stage} of the challenge.");
-            //Console.WriteLine("Enter to continue ...");
-            //Console.ReadKey();
             Thread.Sleep(2000);
             Fight();
         }
@@ -70,7 +68,7 @@
             {
                 case 1:
                     Program.player.Potion += 1;
-                    return "You have pick up 1 Potion";
+                    return "You have pick up 1 Potion\n";
                 default:
                     return "";
             }
@@ -134,10 +132,8 @@
                         int hurted = dame/4 - player.Armor;
                         if (hurted < 0)
                             hurted = 0;
-                        //int damaged = rand.Next(Program.player.Damage, Program.player.Damage + Program.player.Weapon)/2;
                         Console.WriteLine($"{player.Name} defend successfully. You have losen {hurted} HP");
                         Program.player.Health -= hurted; //lose hp
-                        //health -= damaged; //attack creep
                         break;
                     case "h":
                     case "heal":
@@ -169,7 +165,7 @@
                     case "r":
                     case "run":
                         Console.WriteLine($"{player.Name} choose run!");
-                        Console.WriteLine("You are running away ... ");
+                        Console.WriteLine("You are running away ... \n");
                         Thread.Sleep(3000);
                         if (rand.Next(0,3) == 0)
                         {
@@ -187,6 +183,8 @@
                         }
                         break;
                 }
+                Thread.Sleep(3000);
+                Console.Clear();
                 PlayerDeath(player);
             }
             Console.WriteLine($"\n{creep} has been defeated by {player.Desc} {player.Name}");

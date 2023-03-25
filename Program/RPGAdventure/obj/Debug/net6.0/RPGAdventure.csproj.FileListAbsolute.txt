@@ -1,0 +1,15 @@
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\bin\Debug\net6.0\RPGAdventure.exe
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\bin\Debug\net6.0\RPGAdventure.deps.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\bin\Debug\net6.0\RPGAdventure.runtimeconfig.json
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\bin\Debug\net6.0\RPGAdventure.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\bin\Debug\net6.0\RPGAdventure.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\obj\Debug\net6.0\RPGAdventure.csproj.AssemblyReference.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\obj\Debug\net6.0\RPGAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\obj\Debug\net6.0\RPGAdventure.AssemblyInfoInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\obj\Debug\net6.0\RPGAdventure.AssemblyInfo.cs
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\obj\Debug\net6.0\RPGAdventure.csproj.CoreCompileInputs.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\obj\Debug\net6.0\RPGAdventure.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\obj\Debug\net6.0\refint\RPGAdventure.dll
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\obj\Debug\net6.0\RPGAdventure.pdb
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\obj\Debug\net6.0\RPGAdventure.genruntimeconfig.cache
+C:\SWINBURNE\COS\20007 - Object Oriented Programming\Program\RPGAdventure\obj\Debug\net6.0\ref\RPGAdventure.dll
