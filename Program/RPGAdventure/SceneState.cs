@@ -15,7 +15,7 @@ namespace RPGAdventure
         {
             this.currentplayer = player;
         }
-        public void Process(string num)
+        private void Process(string num)
         {
             switch (num.ToLower())
             {
@@ -29,12 +29,19 @@ namespace RPGAdventure
                     if (random.Next(1, 100) >= 5)
                     {
                         Monster meetmons = new Monster();
+                        meetmons.Attack += currentplayer.Damage/2;
+                        meetmons.Defense+= currentplayer.Defend/3;
+                        meetmons.Health+= currentplayer.Health/2;
                         GUI.Slowprint($"You have encounted Monster {meetmons.Name}");
                         states.Push(new EnemyState(states, currentplayer, meetmons));
                     }
                     else
                     {
                         Boss meetboss = new Boss();
+                        meetboss.Health = 999999;
+                        meetboss.Name = "Unidentified creature?????";
+                        meetboss.Defense = 99999;
+                        meetboss.Attack = 99999;
                         GUI.Slowprint($"Unlucily, You have encounted Boss {meetboss.Name}");
                         states.Push(new EnemyState(states, currentplayer, meetboss));
                     }
@@ -42,6 +49,10 @@ namespace RPGAdventure
                 case "b":
                 case "boss":
                     Boss newboss = new Boss();
+                    newboss.Health += currentplayer.Health/2;
+                    newboss.Attack += currentplayer.DamageMax / 3;
+                    newboss.Defense += currentplayer.Defend / 2;
+
                     GUI.Slowprint($"You have encounted Boss {newboss.Name}");
                     states.Push(new EnemyState(states, currentplayer, newboss));
                     break;
@@ -65,7 +76,7 @@ namespace RPGAdventure
             string input = GUI.GetCommandCount("Enter your option (Player)");
             Process(input);
         }
-        public void Displayshop(Player currentp)
+        private void Displayshop(Player currentp)
         {
             Console.Clear();
             ShopInstruction();
@@ -78,10 +89,10 @@ namespace RPGAdventure
         }
         private void SaveShop(Player player)
         {
-            shopCosts[0] = random.Next(2, 8) * player.Level;
-            shopCosts[1] = random.Next(2, 5) * player.Level;
-            shopCosts[2] = random.Next(4, 10);
-            shopCosts[3] = random.Next(4, 10);
+            shopCosts[0] = random.Next(2, 8) * player.Level / 2;
+            shopCosts[1] = random.Next(2, 5) * player.Level / 2;
+            shopCosts[2] = random.Next(4, 10) * player.Level / 2;
+            shopCosts[3] = random.Next(4, 10) * player.Level / 2;
             while (true)
             {
                 GUI.Title("Shop");
@@ -125,7 +136,7 @@ namespace RPGAdventure
                 }
             }
         }
-        static void Buy(string item, int cost, Player player)
+        private static void Buy(string item, int cost, Player player)
         {
             Console.WriteLine($"Your purchase is processing");
             Thread.Sleep(1000);
@@ -173,7 +184,7 @@ namespace RPGAdventure
         {
             string[] weaponNames = { "Frosty Blade", "Thunderous Hammer", "Inferno Bow", "Radiant Shield", "Venomous Dagger", "Lumious Spear", "Ethereal Staff", "Sonic Sword", "Mystic Want", "Celestial Blade", "Stick" };
 
-            if (random.Next(999, 1000) + player.Level >= 950)
+            if (random.Next(0, 1000) + player.Level >= 950)
             {
                 Thread.Sleep(2000);
                 int weaponIndex = random.Next(0, weaponNames.Length);
@@ -182,7 +193,6 @@ namespace RPGAdventure
                 player.Weapon = weaponNames[weaponIndex];
                 GUI.Congrat($"With your luck, you have rolled out legendary weapon {weaponNames[weaponIndex]}");
                 GUI.Congrat("Your weapon's attack increase greatly ...");
-                GUI.WaitEnter();
             }
         
         }

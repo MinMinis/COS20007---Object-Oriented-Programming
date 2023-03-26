@@ -4,7 +4,7 @@ namespace RPGAdventure
 {
     public class Boss : EnemyWithSpecialAbility
     {
-        public string[] BossNames { get; set; }
+        private string[] BossNames { get; set; }
 
         public Boss() : base("", 0, 0, 0, 0, 0)
         {

@@ -9,7 +9,7 @@ namespace RPGAdventure
         {
             this.player = currentplayer;
         }
-        public void Process(string num)
+        private void Process(string num)
         {
             switch (num.ToLower())
             {
@@ -44,7 +44,7 @@ namespace RPGAdventure
             string number = GUI.GetCommandCount("Input your option");
             Process(number);
         }
-        public static void Story(Player player)
+        private static void Story(Player player)
         {
             Console.Clear();
             GUI.Title("Story Line");

@@ -51,7 +51,7 @@
         }
         public string Enemyinfo()
         {
-            string info = $"\nBoss: {Name} | Health: {Health}/{MaxHealth}" +
+            string info = $"\nInfo: {Name} | Health: {Health}/{MaxHealth}" +
                           $"\nAttack: {Attack} | Defense: {Defense}";
 
             return info;

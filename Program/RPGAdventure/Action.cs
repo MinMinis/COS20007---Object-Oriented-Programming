@@ -39,11 +39,11 @@
             int skillatk = 0;
             if (enemy.GetType() == typeof(Boss))
             {
-                skillatk += random.Next(30, 50) * player.Level / 2;
-                if (random.Next(0,1) >= 0)
+                skillatk += random.Next(10, 50) * player.Level / 2;
+                if (random.Next(0,20) > 9)
                 {
                     GUI.Slowprint($"The {enemy.Name} has used its ultimate to cause critical damage...");
-                    Boss.UseSpecialAbility();
+                    //Boss.UseSpecialAbility();
                 }
             }
             if (enemy.IsDeath() == false)
@@ -72,14 +72,14 @@
         {
             while (true)
             {
-                if (player.Exp >= 10)
+                if (player.Exp >= player.MaxExp)
                 {
                     LevelUp(player);
                     GUI.Congrat($"You have level up. Current level: {player.Level}");
                 }
                 else
                 {
-                    int remainexp = 10 - player.Exp;
+                    int remainexp = player.MaxExp - player.Exp;
                     GUI.Slowprint($"You need {remainexp} exp to level up");
                     break;
                 }
@@ -98,6 +98,7 @@
                 player.DamageMax += updmg;
                 player.Defend += random.Next(1, 10);
                 player.Exp -= 10;
+                player.MaxExp ++;
             }
         }
     }

@@ -12,7 +12,7 @@ namespace RPGAdventure
            this.playerlist = playerlist;
            activep = null;
         }
-        public void Process(string num)
+        private void Process(string num)
         {
             switch (num.ToLower())
             {
@@ -56,7 +56,7 @@ namespace RPGAdventure
             string number = GUI.GetCommandCount("Input your option");
             Process(number);
         }
-        public void NewGame()
+        private void NewGame()
         {
             if (activep == null)
             {
@@ -67,7 +67,7 @@ namespace RPGAdventure
                 states.Push(new GameState(states, activep));
             }
         }
-        public void ChoosePlayer()
+        private void ChoosePlayer()
         {
             if (activep != null)
             {

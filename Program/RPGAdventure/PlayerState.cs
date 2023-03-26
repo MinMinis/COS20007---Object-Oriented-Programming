@@ -3,7 +3,7 @@ using System.Transactions;
 
 namespace RPGAdventure
 {
-    internal class PlayerState : State
+    public class PlayerState : State
     {
         ArrayList playerlist;
         Player currentplayer;
@@ -13,7 +13,7 @@ namespace RPGAdventure
             this.playerlist = playerlist;
             this.currentplayer = player;
         }
-        public void Process(string num)
+        private void Process(string num)
         {
             switch (num.ToLower())
             {
@@ -43,6 +43,7 @@ namespace RPGAdventure
         {
             GUI.GetCommand("Input your player's name");
             string name = Console.ReadLine();
+            Console.WriteLine("Recommend role: Ninja, Mage, Hunter...");
             GUI.GetCommand("Input your player's role");
             string desc = Console.ReadLine();
             if (name != "" || desc != "")
@@ -123,7 +124,7 @@ namespace RPGAdventure
             }
         }
 
-        public void DeletePlayer()
+        private void DeletePlayer()
         {
             Console.WriteLine($"\nThere are {playerlist.Count} players:");
             int i = 1;

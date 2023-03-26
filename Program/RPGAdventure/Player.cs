@@ -6,27 +6,23 @@
         private int exp, expMax, level = 1;
         private bool isdef;
         // Stats
-        private int hp, hpMax , damage, damageMax, defence, gold = 100;
+        private int hp, hpMax , damage, damageMax, defence, gold = 30;
         // potion
         private int potion, heal_ammount;
         // weapon
         private int weapondmg;
         private string weapon;
-        private void ExpCal()
-        {
-            expMax = level * 100;
-        }
         private void Stats()
         {
             weapon = "Stick";
             weapondmg = 10;
-            hpMax       = 10;
+            hpMax       = 20;
             hp          = hpMax;
             damageMax   = weapondmg + 2;
             damage      = damageMax / 2;
             defence     = 2;
             potion      = 1;
-            heal_ammount = 10;
+            heal_ammount = 10 + level + hpMax/10;
             exp = 0;
             expMax = 10;
             isdef = false;
@@ -42,6 +38,11 @@
         {
             get { return exp; }
             set { exp = value; }
+        }
+        public int MaxExp
+        {
+            get { return expMax; }
+            set { expMax = value; }
         }
         public int Health
         {
