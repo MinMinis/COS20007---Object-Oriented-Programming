@@ -5,7 +5,7 @@
     {
         public string[] MonsNames { get; set; }
 
-        public Monster() : base("", 0, 0, 0, 0, 0)
+        public Monster() : base("", 0,0, 0, 0, 0, 0)
         {
             Random random = new();
             int maxhealth = random.Next(50, 100);

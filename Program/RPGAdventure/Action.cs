@@ -61,11 +61,16 @@
                 }
                 if (player.IsDefending)
                 {
-                    int hurt = damage / 2;
-                    GUI.Slowprint($"You successfully defend against the {enemy.Name}'s attack! You have received {hurt} damage");
-                    player.TakeDamage(hurt);
+                    damage  /= 2;
+                    GUI.Slowprint($"You successfully defend against the {enemy.Name}'s attack! You have received {damage} damage");
+                    player.TakeDamage(damage);
                     player.IsDefending = false;
                 }
+                if (damage >= player.Health)
+                {
+                    player.Health = 0;
+                }
+                
             }
         }
         public static void CheckExp(Player player)

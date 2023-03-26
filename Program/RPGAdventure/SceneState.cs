@@ -31,7 +31,8 @@ namespace RPGAdventure
                         Monster meetmons = new Monster();
                         meetmons.Attack += currentplayer.Damage/2;
                         meetmons.Defense+= currentplayer.Defend/3;
-                        meetmons.Health+= currentplayer.Health/2;
+                        meetmons.MaxHealth += currentplayer.Health/2;
+                        meetmons.Health += currentplayer.Health / 2;
                         GUI.Slowprint($"You have encounted Monster {meetmons.Name}");
                         states.Push(new EnemyState(states, currentplayer, meetmons));
                     }
@@ -49,10 +50,10 @@ namespace RPGAdventure
                 case "b":
                 case "boss":
                     Boss newboss = new Boss();
-                    newboss.Health += currentplayer.Health/2;
+                    newboss.MaxHealth += currentplayer.MaxHealth/2;
                     newboss.Attack += currentplayer.DamageMax / 3;
                     newboss.Defense += currentplayer.Defend / 2;
-
+                    newboss.Health += currentplayer.MaxHealth / 2;
                     GUI.Slowprint($"You have encounted Boss {newboss.Name}");
                     states.Push(new EnemyState(states, currentplayer, newboss));
                     break;
@@ -89,10 +90,10 @@ namespace RPGAdventure
         }
         private void SaveShop(Player player)
         {
-            shopCosts[0] = random.Next(2, 8) * player.Level / 2;
-            shopCosts[1] = random.Next(2, 5) * player.Level / 2;
-            shopCosts[2] = random.Next(4, 10) * player.Level / 2;
-            shopCosts[3] = random.Next(4, 10) * player.Level / 2;
+            shopCosts[0] = random.Next(2, 8) * (player.Level / 3);
+            shopCosts[1] = random.Next(2, 5) * (player.Level / 3);
+            shopCosts[2] = random.Next(4, 10) * (player.Level / 3);
+            shopCosts[3] = random.Next(4, 10) * (player.Level / 3);
             while (true)
             {
                 GUI.Title("Shop");

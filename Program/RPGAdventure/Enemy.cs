@@ -12,23 +12,28 @@
     public abstract class EnemyWithSpecialAbility : Enemy, ISpecialAbilityUser
     {
         public abstract void UseSpecialAbility();
-        public EnemyWithSpecialAbility(string name, int health, int attack, int defense, int gold, int exp)
-            : base(name, health, attack, defense, gold, exp)
+        public EnemyWithSpecialAbility(string name, int health, int maxhealth,int attack, int defense, int gold, int exp)
+            : base(name, health, maxhealth,attack, defense, gold, exp)
         {
         }
     }
     public abstract class Enemy
     {
         public string Name { get; set; }
-        public int Health { get; set; }
+        public int Health
+        {
+            get;
+            set;
+        }
         public int Attack { get; set; }
         public int Defense { get; set; }
         public int MaxHealth { get; set; }
         public int Gold { get; set; }
         public int Expgain { get; set; }
-        public Enemy(string name, int health, int attack, int defense, int gold, int exp)
+        public Enemy(string name, int health, int maxhealth, int attack, int defense, int gold, int exp)
         {
             Name = name;
+            MaxHealth= maxhealth;
             Health = health;
             Attack = attack;
             Defense = defense;
