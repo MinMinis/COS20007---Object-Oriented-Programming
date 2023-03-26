@@ -1,6 +1,6 @@
 ﻿namespace RPGAdventure
 {
-    
+
     public class Monster : Enemy
     {
         public string[] MonsNames { get; set; }
@@ -41,6 +41,5 @@
             int index = random.Next(0, MonsNames.Length);
             Name = MonsNames[index];
         }
-        
     }
 }

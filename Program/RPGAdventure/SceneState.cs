@@ -29,17 +29,20 @@ namespace RPGAdventure
                     if (random.Next(1, 100) >= 5)
                     {
                         Monster meetmons = new Monster();
+                        GUI.Slowprint($"You have encounted Monster {meetmons.Name}");
                         states.Push(new EnemyState(states, currentplayer, meetmons));
                     }
                     else
                     {
                         Boss meetboss = new Boss();
+                        GUI.Slowprint($"Unlucily, You have encounted Boss {meetboss.Name}");
                         states.Push(new EnemyState(states, currentplayer, meetboss));
                     }
                     break;
                 case "b":
                 case "boss":
                     Boss newboss = new Boss();
+                    GUI.Slowprint($"You have encounted Boss {newboss.Name}");
                     states.Push(new EnemyState(states, currentplayer, newboss));
                     break;
                 case "s":

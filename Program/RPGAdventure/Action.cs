@@ -36,11 +36,22 @@
 
         public static void EnemyAttack(Player player, Enemy enemy)
         {
+            int skillatk = 0;
+            if (enemy.GetType() == typeof(Boss))
+            {
+                skillatk += random.Next(30, 50) * player.Level / 2;
+                if (random.Next(0,1) >= 0)
+                {
+                    GUI.Slowprint($"The {enemy.Name} has used its ultimate to cause critical damage...");
+                    Boss.UseSpecialAbility();
+                }
+            }
             if (enemy.IsDeath() == false)
             {
-                int damage = random.Next(enemy.Attack - 10, enemy.Attack + 10) - player.Defend;
+                int damage = skillatk + random.Next(enemy.Attack - 10, enemy.Attack + 10) - player.Defend;
                 if (damage <= 0)
                 {
+                    damage = 0;
                     GUI.Slowprint($"The {enemy.Name} attacks, but your defense is too strong!");
                 }
                 else

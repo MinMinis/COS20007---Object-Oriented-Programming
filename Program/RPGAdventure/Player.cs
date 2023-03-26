@@ -1,6 +1,4 @@
-﻿using System.Drawing;
-
-namespace RPGAdventure
+﻿namespace RPGAdventure
 {
     public class Player
     {

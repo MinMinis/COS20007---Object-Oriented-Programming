@@ -1,11 +1,11 @@
 ﻿namespace RPGAdventure
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             GamePlay game = new GamePlay();
-            GUI.Title("Welcome");
+            GUI.Title("Welcome to RPG Adventure");
             game.Run();
         }
     }

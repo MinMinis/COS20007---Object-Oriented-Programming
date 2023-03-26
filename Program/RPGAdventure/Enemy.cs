@@ -1,5 +1,22 @@
 ﻿namespace RPGAdventure
 {
+    public enum EnemyType
+    {
+        Monster,
+        Boss
+    }
+    public interface ISpecialAbilityUser
+    {
+       void UseSpecialAbility();
+    }
+    public abstract class EnemyWithSpecialAbility : Enemy, ISpecialAbilityUser
+    {
+        public abstract void UseSpecialAbility();
+        public EnemyWithSpecialAbility(string name, int health, int attack, int defense, int gold, int exp)
+            : base(name, health, attack, defense, gold, exp)
+        {
+        }
+    }
     public abstract class Enemy
     {
         public string Name { get; set; }

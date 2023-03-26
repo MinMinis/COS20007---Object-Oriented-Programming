@@ -1,6 +1,8 @@
-﻿namespace RPGAdventure
+﻿using System;
+
+namespace RPGAdventure
 {
-    public class Boss : Enemy
+    public class Boss : EnemyWithSpecialAbility
     {
         public string[] BossNames { get; set; }
 
@@ -34,7 +36,10 @@
             Name = BossNames[index];
         }
 
-
-
+        public override void UseSpecialAbility()
+        {
+            // can add more types of attack
+            GUI.Slowprint($"The boss uses its special ability!");
+        }
     }
 }
