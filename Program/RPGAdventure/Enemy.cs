@@ -56,6 +56,10 @@
         }
         public string Enemyinfo()
         {
+            if (Health > MaxHealth)
+            {
+                Health = MaxHealth;
+            }
             string info = $"\nInfo: {Name} | Health: {Health}/{MaxHealth}" +
                           $"\nAttack: {Attack} | Defense: {Defense}";
 
