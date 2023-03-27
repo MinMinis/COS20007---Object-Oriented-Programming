@@ -31,7 +31,7 @@ namespace RPGAdventure
                 }
                 else
                 {
-                    GUI.Title("Creep Fight");
+                    GUI.Title("Monster Fight");
                 }
 
                 GUI.Menu("A", "Attack");
@@ -52,7 +52,7 @@ namespace RPGAdventure
             Console.Clear();
         }
 
-        public void Process(string num)
+        private void Process(string num)
         {
             switch (num.ToLower())
             {
@@ -83,7 +83,7 @@ namespace RPGAdventure
             }
         }
 
-        public void Run()
+        private void Run()
         {
             GUI.Slowprint($"You try to run away from the {currentenemy}...");
             if (random.Next(0, 5) == 5)
@@ -100,7 +100,7 @@ namespace RPGAdventure
             }
         }
 
-        public void DeathFlag()
+        private void DeathFlag()
         {
             GUI.Slowprint("Your HP has returned to 0, please start a new game with a new character");
         }

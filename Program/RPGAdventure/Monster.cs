@@ -3,7 +3,7 @@
 
     public class Monster : Enemy
     {
-        public string[] MonsNames { get; set; }
+        private string[] MonsNames { get; set; }
 
         public Monster() : base("", 0,0, 0, 0, 0, 0)
         {

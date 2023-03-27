@@ -159,6 +159,5 @@ namespace RPGAdventure
             string input = GUI.GetCommandCount("Enter your option (Player)");
             Process(input);
         }
-
     }
 }

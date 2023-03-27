@@ -1,6 +1,6 @@
 ﻿namespace RPGAdventure
 {
-    internal class GUI
+    public class GUI
     {
         public static void Title(string title)
         {
