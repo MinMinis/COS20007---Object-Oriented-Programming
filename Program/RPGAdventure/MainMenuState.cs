@@ -34,6 +34,9 @@ namespace RPGAdventure
                 case "select":
                     ChoosePlayer();
                     break;
+                case "t":
+                    GUI.Slowprint("test the case ..........................................................................");
+                    break;
                 default:
                     Console.Clear();
                     break;

@@ -85,16 +85,16 @@ namespace RPGAdventure
 
         private void Run()
         {
-            GUI.Slowprint($"You try to run away from the {currentenemy}...");
+            GUI.Slowprint($"You try to run away from the {currentenemy.Name}...");
             if (random.Next(0, 5) == 5)
             {
-                GUI.Congrat($"You successfully run away from the {currentenemy}!");
+                GUI.Congrat($"You successfully run away from the {currentenemy.Name}!");
                 GUI.WaitEnter();
                 end = true;
             }
             else
             {
-                GUI.Slowprint($"The {currentenemy} catches up to you and blocks your escape");
+                GUI.Slowprint($"The {currentenemy.Name} catches up to you and blocks your escape");
                 currentplayer.TakeDamage(currentenemy.Attack);
                 GUI.Slowprint($"You have received {currentenemy.Attack} damage because you were worried to escape");
             }

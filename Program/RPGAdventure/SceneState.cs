@@ -26,13 +26,13 @@ namespace RPGAdventure
                     break;
                 case "c":
                 case "creep":
-                    if (random.Next(1, 100) >= 5)
+                    if (random.Next(0, 100) >= 10)
                     {
                         Monster meetmons = new Monster();
-                        meetmons.Attack += currentplayer.Damage/2;
-                        meetmons.Defense+= currentplayer.Defend/3;
-                        meetmons.MaxHealth += currentplayer.Health/2;
-                        meetmons.Health += currentplayer.Health / 2;
+                        meetmons.Attack += currentplayer.Defend/2;
+                        meetmons.Defense+= currentplayer.Damage/3;
+                        meetmons.MaxHealth += currentplayer.Damage/2;
+                        meetmons.Health += currentplayer.Damage / 2;
                         GUI.Slowprint($"You have encounted Monster {meetmons.Name}");
                         states.Push(new EnemyState(states, currentplayer, meetmons));
                     }
@@ -50,10 +50,10 @@ namespace RPGAdventure
                 case "b":
                 case "boss":
                     Boss newboss = new Boss();
-                    newboss.MaxHealth += currentplayer.MaxHealth/2;
-                    newboss.Attack += currentplayer.DamageMax / 3;
-                    newboss.Defense += currentplayer.Defend / 2;
-                    newboss.Health += currentplayer.MaxHealth / 2;
+                    newboss.MaxHealth += currentplayer.DamageMax/ 2;
+                    newboss.Attack += currentplayer.Defend / 2;
+                    newboss.Defense += currentplayer.Damage / 2;
+                    newboss.Health += currentplayer.DamageMax / 2;
                     GUI.Slowprint($"You have encounted Boss {newboss.Name}");
                     states.Push(new EnemyState(states, currentplayer, newboss));
                     break;
@@ -90,10 +90,10 @@ namespace RPGAdventure
         }
         private void SaveShop(Player player)
         {
-            shopCosts[0] = random.Next(2, 8) * (player.Level / 3);
-            shopCosts[1] = random.Next(2, 5) * (player.Level / 3);
-            shopCosts[2] = random.Next(4, 10) * (player.Level / 3);
-            shopCosts[3] = random.Next(4, 10) * (player.Level / 3);
+            shopCosts[0] = random.Next(2, 8) + random.Next(2, 8) * (player.Level / 10);
+            shopCosts[1] = random.Next(2, 5) + random.Next(2, 5) * (player.Level / 10);
+            shopCosts[2] = random.Next(4, 10) + random.Next(4, 10) * (player.Level / 10);
+            shopCosts[3] = random.Next(4, 10) + random.Next(4, 10) * (player.Level / 10);
             while (true)
             {
                 GUI.Title("Shop");
@@ -185,11 +185,11 @@ namespace RPGAdventure
         {
             string[] weaponNames = { "Frosty Blade", "Thunderous Hammer", "Inferno Bow", "Radiant Shield", "Venomous Dagger", "Lumious Spear", "Ethereal Staff", "Sonic Sword", "Mystic Want", "Celestial Blade", "Stick" };
 
-            if (random.Next(0, 1000) + player.Level >= 950)
+            if (random.Next(0, 100)  == 50)
             {
                 Thread.Sleep(2000);
                 int weaponIndex = random.Next(0, weaponNames.Length);
-                player.WeaponDmg += 50;
+                player.WeaponDmg += 150;
                 player.DamageMax += player.WeaponDmg;
                 player.Weapon = weaponNames[weaponIndex];
                 GUI.Congrat($"With your luck, you have rolled out legendary weapon {weaponNames[weaponIndex]}");

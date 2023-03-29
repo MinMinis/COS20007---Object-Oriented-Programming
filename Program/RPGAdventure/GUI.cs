@@ -1,4 +1,6 @@
-﻿namespace RPGAdventure
+﻿using System.Media;
+
+namespace RPGAdventure
 {
     public class GUI
     {
@@ -90,7 +92,6 @@
         public static void Slowprint(string text)
         {
             string[] words = text.Split(' ');
-
             Task t = Task.Run(() =>
             {
                 foreach (string word in words)
@@ -102,10 +103,9 @@
                     }
 
                     Console.Write(" ");
-                    Thread.Sleep(250);
+                    Thread.Sleep(150);
                 }
             });
-
             t.Wait();
             Console.WriteLine("\n");
         }

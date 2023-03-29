@@ -39,9 +39,9 @@
             int skillatk = 0;
             if (enemy.GetType() == typeof(Boss))
             {
-                skillatk += random.Next(10, 50) * player.Level / 2;
                 if (random.Next(0,20) >= 18)
                 {
+                    skillatk += random.Next(10, 50) * player.Level / 2;
                     GUI.Slowprint($"The {enemy.Name} has used its ultimate to cause critical damage...");
                 }
             }

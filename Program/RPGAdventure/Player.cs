@@ -15,14 +15,14 @@
         private void Stats()
         {
             weapon = "Stick";
-            weapondmg = 10;
-            hpMax       = 20;
+            weapondmg = 30;
+            hpMax       = 50;
             hp          = hpMax;
             damageMax   = weapondmg + 2;
             damage      = damageMax / 2;
-            defence     = 2;
-            potion      = 1;
-            heal_ammount = 10 + level + hpMax/10;
+            defence     = 30;
+            potion      = 3;
+            heal_ammount = 15 + level + hpMax/10;
             exp = 0;
             expMax = 10;
             isdef = false;
