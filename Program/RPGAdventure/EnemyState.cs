@@ -86,7 +86,7 @@ namespace RPGAdventure
         private void Run()
         {
             GUI.Slowprint($"You try to run away from the {currentenemy.Name}...");
-            if (random.Next(0, 5) == 5)
+            if (random.Next(0, 5) >= 2)
             {
                 GUI.Congrat($"You successfully run away from the {currentenemy.Name}!");
                 GUI.WaitEnter();
