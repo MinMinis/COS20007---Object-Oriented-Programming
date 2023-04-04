@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DRJ3vMG6HeLoLJk/zSgipiFliuFZ3QAlQUn26by+T0OFm4g/cqGX3aHwzCAwxw2TutsorWeLc8tOL1RjFyvfVg==",
+  "success": true,
+  "projectFilePath": "C:\\SWINBURNE\\COS\\20007 - Object Oriented Programming\\Week 1\\1.2\\1.2 Print name\\HelloWorld2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trant\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\trant\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\trant\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\trant\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

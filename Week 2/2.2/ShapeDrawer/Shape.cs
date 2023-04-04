@@ -16,10 +16,9 @@ namespace ShapeDrawer
         {
             _x = 0; //the x-coor position
             _y = 0; // the y--coor position
-            _height = 50; // height of object
+            _height = 100; // height of object
             _width = 100; // width of object
             _color = SplashKit.ColorGreen(); // the original color when first appear
-            // SET UP for creating shape
         }
 
         public Color Color

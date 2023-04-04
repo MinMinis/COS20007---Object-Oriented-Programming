@@ -7,8 +7,8 @@ namespace ShapeDrawer
     {
         public static void Main()
         {
-            Shape myShape = new Shape();
-            Window window = new Window("Shape Drawer", 800, 600); //draw window
+            Shape myShape = new();
+            Window window = new("Shape Drawer", 800, 600); //draw window
             do
             {
                 SplashKit.ProcessEvents();
@@ -18,7 +18,6 @@ namespace ShapeDrawer
                 {
                     myShape.X = SplashKit.MouseX();
                     myShape.Y = SplashKit.MouseY();
-                    myShape.Color = SplashKit.ColorGreen(); // color change to green
                 }
                 if (myShape.IsAt(SplashKit.MousePosition()))
                 {
